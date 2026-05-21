@@ -1,0 +1,29 @@
+    body{
+        background-color: black;
+        color: white;
+    }
+
+li{
+      font-size: 20px;
+      color:aqua;
+}
+
+
+
+  #html{
+
+    color:rgb(174, 0, 255)  ;
+}
+
+ #css{
+
+   color: rgb(0, 217, 255);
+
+ }
+
+
+ #javascript{
+
+    color:rgb(251, 255, 0);
+ }
+
